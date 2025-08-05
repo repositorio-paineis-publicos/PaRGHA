@@ -1,8 +1,7 @@
 # PaRGHA - Pacote R para Gestão Hospitalar Automatizado
 
 <!-- badges: start -->
-<!--[![R-CMD-check](https://github.com/rfsaldanha/microdatasus/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rfsaldanha/microdatasus/actions/workflows/R-CMD-check.yaml)-->
-[![CRAN status](https://www.r-pkg.org/badges/version/microdatasus)](https://CRAN.R-project.org/package=microdatasus)
+![CRAN status](https://www.r-pkg.org/badges/version/microdatasus)
 <!-- badges: end -->
 
 Este pacote foi desenvolvido para automatizar a coleta, o tratamento e a geração de indicadores hospitalares com base nos dados dos sistemas de informação em saúde do DATASUS. Criado como parte de um sistema de Business Intelligence (BI) voltado à Rede EBSERH, ele visa apoiar gestores hospitalares na tomada de decisão, promovendo maior agilidade, padronização e reprodutibilidade na produção de informações estratégicas em saúde.
