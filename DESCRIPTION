@@ -1,11 +1,10 @@
 Package: PaRGHA
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Pacote R para Gestão Hospitalar Automatizado
 Version: 1.0.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Este pacote foi desenvolvido para automatizar a coleta, o tratamento e a geração de indicadores hospitalares com base nos dados dos sistemas de informação em saúde do DATASUS. Criado como parte de um sistema de Business Intelligence (BI) voltado à Rede EBSERH, ele visa apoiar gestores hospitalares na tomada de decisão, promovendo maior agilidade, padronização e reprodutibilidade na produção de informações estratégicas em saúde.
 License: CC BY-NC 4.0 (file LICENSE)
 Encoding: UTF-8
 LazyData: true
