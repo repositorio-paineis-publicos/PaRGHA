@@ -25,7 +25,7 @@ remotes::install_github("danicat/read.dbc")
 ```
 Por fim, utilize o código abaixo para instalar o pacote PaRGHA:
 ```r
-remotes::install_github("gustaavobraga/PaRGHA")
+remotes::install_github("repositorio-paineis-publicos/PaRGHA")
 ```
 # Funções
 - `auto_PaRGHA()` função principal do pacote, responsável por executar todas as etapas do processo, incluindo o download dos dados e a criação das tabelas de indicadores e de labels exigidas pelo painel. Todas as tabelas geradas são salvas em um arquivo .RData no diretório local do usuário ("./
